@@ -12,6 +12,8 @@ Read and edit config file for your own server.
 I make this script cause i didnt see it anywhere it's so simple if u have any suggestions please tell me 
 !!! This script might change ur handlings while using 
 
+'lyz-stancer:SetAirSusp' can use for radialmenu trigger or else
+
 # Default
 ![Adsız](https://github.com/user-attachments/assets/b513b16f-1ad2-40db-bca3-de9833982941)
 # Lowered
