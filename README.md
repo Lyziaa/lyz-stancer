@@ -13,6 +13,6 @@ I make this script cause i didnt see it anywhere it's so simple if u have any su
 !!! This script might change ur handlings while using 
 
 # Default
-![default veh](https://hizliresim.com/stunwsj)
+https://hizliresim.com/stunwsj
 # Lowered
-![lowered veh](https://hizliresim.com/nj5yzz6)
+https://hizliresim.com/nj5yzz6
