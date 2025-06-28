@@ -15,4 +15,4 @@ I make this script cause i didnt see it anywhere it's so simple if u have any su
 # Default
 [https://hizliresim.com/stunwsj](https://i.hizliresim.com/stunwsj.png)
 # Lowered
-https://hizliresim.com/nj5yzz6
+<a href="https://hizliresim.com/6fjbrfd"><img src="https://i.hizliresim.com/6fjbrfd.png" alt="Resim Yükle"></a>
