@@ -13,6 +13,6 @@ I make this script cause i didnt see it anywhere it's so simple if u have any su
 !!! This script might change ur handlings while using 
 
 # Default
-![image](https://github.com/user-attachments/assets/54129483-81a5-49a2-a468-f6199b51fea0)
-# Lowered
 ![Adsız](https://github.com/user-attachments/assets/b513b16f-1ad2-40db-bca3-de9833982941)
+# Lowered
+![image](https://github.com/user-attachments/assets/54129483-81a5-49a2-a468-f6199b51fea0)
